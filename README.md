@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gojimandev
 - 👀 I’m interested in programming and design!
-- 🌱 I’m currently learning HTML/SASSJavascript and C#/Java
+- 🌱 I’m currently learning C++/C#/Python Javascript and HTML/SASS 
 - 📫 How to reach me webmaster@gojibo.me
 
 
